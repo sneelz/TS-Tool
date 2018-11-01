@@ -1,4 +1,4 @@
-Front-end for AT&T Template Swap Tool - REVISED
+Front-end for Template Swap Tool
 
 <b>Key files</b><br>
 
