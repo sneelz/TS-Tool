@@ -1,19 +1,2 @@
-Front-end for Template Swap Tool
-
-<b>Key files</b><br>
-
-HTML:<br>
-index.html<br>
-manage.html<br>
-
-CSS:<Br>
-static/css/style.css<br>
-
-JS:<br>
-static/js/scripts.js<br>
-
-Libraries:<br>
-static/brower_components<br>
-
-Images:<br>
-static/img
+The front-end for the Template Swap Tool. View it at:
+http://sneelz.github.io/TS-Tool/
